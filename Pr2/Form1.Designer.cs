@@ -35,37 +35,43 @@
             // 
             // Отобразить
             // 
-            this.Отобразить.Location = new System.Drawing.Point(27, 385);
+            this.Отобразить.Location = new System.Drawing.Point(36, 474);
+            this.Отобразить.Margin = new System.Windows.Forms.Padding(4);
             this.Отобразить.Name = "Отобразить";
-            this.Отобразить.Size = new System.Drawing.Size(191, 47);
+            this.Отобразить.Size = new System.Drawing.Size(255, 58);
             this.Отобразить.TabIndex = 0;
             this.Отобразить.Text = "Отобразить";
             this.Отобразить.UseVisualStyleBackColor = true;
+            this.Отобразить.Click += new System.EventHandler(this.Отобразить_Click);
             // 
             // Выход
             // 
-            this.Выход.Location = new System.Drawing.Point(564, 384);
+            this.Выход.Location = new System.Drawing.Point(752, 473);
+            this.Выход.Margin = new System.Windows.Forms.Padding(4);
             this.Выход.Name = "Выход";
-            this.Выход.Size = new System.Drawing.Size(205, 47);
+            this.Выход.Size = new System.Drawing.Size(273, 58);
             this.Выход.TabIndex = 1;
             this.Выход.Text = "Выход";
             this.Выход.UseVisualStyleBackColor = true;
+            this.Выход.Click += new System.EventHandler(this.Выход_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(27, 33);
+            this.textBox1.Location = new System.Drawing.Point(36, 41);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(742, 20);
+            this.textBox1.Size = new System.Drawing.Size(988, 22);
             this.textBox1.TabIndex = 2;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.Выход);
             this.Controls.Add(this.Отобразить);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

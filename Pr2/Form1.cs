@@ -16,5 +16,15 @@ namespace Pr2
         {
             InitializeComponent();
         }
+
+        private void Отобразить_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Text);
+        }
+
+        private void Выход_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
