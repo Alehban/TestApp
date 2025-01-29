@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\TestApp\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\User\Source\Repos\TestApp\Pr2\bin\Debug\Pr2.exe
+C:\Users\User\Source\Repos\TestApp\Pr2\bin\Debug\Pr2.pdb
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.Form1.resources
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.Properties.Resources.resources
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.exe
+C:\Users\User\Source\Repos\TestApp\Pr2\obj\Debug\Pr2.pdb
