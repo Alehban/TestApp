@@ -24,7 +24,11 @@ namespace Pr2
 
         private void Выход_Click(object sender, EventArgs e)
         {
-            this.Close();
+            MessageBoxButtons msb = MessageBoxButtons.YesNo;
+            String message = "Вы действительно хотите выйти?";
+            String caption = "Выход";
+            if (MessageBox.Show(message, caption, msb) == DialogResult.Yes)
+                this.Close();
         }
     }
 }
